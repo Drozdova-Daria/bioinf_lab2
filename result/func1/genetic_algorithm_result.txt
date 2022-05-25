@@ -1,0 +1,112 @@
+______________________________________________________________________
+Generation 1 info:
+Chromosome [0.01519925 0.05823506] gives value: 0.00362233983207559
+Chromosome [0.04963261 0.05823506] gives value: 0.005854718868284502
+Chromosome [0.39823031 0.01519925] gives value: 0.15881839974902662
+Chromosome [ 0.39823031 -0.15579548] gives value: 0.18285961302734616
+Chromosome [-0.32376947  0.24288932] gives value: 0.1638218936685084
+Chromosome [-0.39967632  0.24288932] gives value: 0.21873638062358908
+Chromosome [ 0.12959841 -0.32376947] gives value: 0.12162241780208716
+Chromosome [0.12959841 0.2676101 ] gives value: 0.08841091586666858
+min value for this generation: 0.00362233983207559
+______________________________________________________________________
+Generation 2 info:
+Chromosome [-0.20036739  0.05823506] gives value: 0.04353841280127071
+Chromosome [0.14823031 0.05823506] gives value: 0.025363548524204797
+Chromosome [ 0.01519925 -0.20036739] gives value: 0.04037810727127094
+Chromosome [ 0.01519925 -0.23480075] gives value: 0.05536241011666522
+Chromosome [-0.12040159  0.2676101 ] gives value: 0.08611171096386641
+Chromosome [-0.57376947  0.2676101 ] gives value: 0.40082657323193893
+Chromosome [ 0.12959841 -0.12040159] gives value: 0.03129229074548055
+Chromosome [ 0.12959841 -0.00711068] gives value: 0.01684630953798038
+min value for this generation: 0.01684630953798038
+______________________________________________________________________
+Generation 3 info:
+Chromosome [-0.15146742  0.05823506] gives value: 0.026333701486246298
+Chromosome [-0.36703405  0.05823506] gives value: 0.1381053198677059
+Chromosome [ 0.14823031 -0.15146742] gives value: 0.04491460464837574
+Chromosome [ 0.14823031 -0.1084316 ] gives value: 0.03372963829639149
+Chromosome [-0.03706826 -0.00711068] gives value: 0.001424617380556714
+Chromosome [-0.28706826 -0.00711068] gives value: 0.08245874581108786
+Chromosome [ 0.12959841 -0.03706826] gives value: 0.018169803490859053
+Chromosome [0.12959841 0.10094344] gives value: 0.02698532547028975
+min value for this generation: 0.001424617380556714
+______________________________________________________________________
+Generation 4 info:
+Chromosome [0.02323031 0.05823506] gives value: 0.003930970146793991
+Chromosome [0.02323031 0.05823506] gives value: 0.003930970146793991
+Chromosome [-0.15146742  0.02323031] gives value: 0.02348202627096493
+Chromosome [-0.15146742 -0.27646742] gives value: 0.09937661218437858
+Chromosome [ 0.00459841 -0.00711068] gives value: 7.170708657929782e-05
+Chromosome [ 0.00459841 -0.00711068] gives value: 7.170708657929782e-05
+Chromosome [-0.03706826  0.00459841] gives value: 0.0013952010394579723
+Chromosome [-0.03706826 -0.02405656] gives value: 0.0019527738489152993
+min value for this generation: 7.170708657929782e-05
+______________________________________________________________________
+Generation 5 info:
+Chromosome [-0.07676969  0.05823506] gives value: 0.009284907444865348
+Chromosome [-0.25146742  0.05823506] gives value: 0.06662718514541538
+Chromosome [ 0.02323031 -0.07676969] gives value: 0.006433232229583981
+Chromosome [ 0.02323031 -0.07676969] gives value: 0.006433232229583981
+Chromosome [-0.09540159 -0.00711068] gives value: 0.009152025125458433
+Chromosome [-0.13706826 -0.00711068] gives value: 0.018838268752769182
+Chromosome [ 0.00459841 -0.09540159] gives value: 0.00912260878435969
+Chromosome [ 0.00459841 -0.09540159] gives value: 0.00912260878435969
+min value for this generation: 0.006433232229583981
+______________________________________________________________________
+Generation 6 info:
+Chromosome [-0.06010302 -0.07676969] gives value: 0.009505957755754555
+Chromosome [-0.16010302 -0.07676969] gives value: 0.031526561720492584
+Chromosome [ 0.02323031 -0.06010302] gives value: 0.004152020457683199
+Chromosome [ 0.02323031 -0.02509827] gives value: 0.0011695705884428934
+Chromosome [-0.07873492 -0.09540159] gives value: 0.015300651594536746
+Chromosome [-0.17873492 -0.09540159] gives value: 0.041047636300082554
+Chromosome [ 0.00459841 -0.07873492] gives value: 0.006220333555657612
+Chromosome [ 0.00459841 -0.09044401] gives value: 0.008201264205449208
+min value for this generation: 0.0011695705884428934
+______________________________________________________________________
+Generation 7 info:
+Chromosome [-0.04819826 -0.02509827] gives value: 0.0029529951891061066
+Chromosome [-0.13153159 -0.02509827] gives value: 0.017930482620038588
+Chromosome [ 0.02323031 -0.04819826] gives value: 0.002862719532175838
+Chromosome [ 0.02323031 -0.14819826] gives value: 0.02250237111596148
+Chromosome [-0.06683016 -0.07873492] gives value: 0.010665458685469236
+Chromosome [-0.15016349 -0.07873492] gives value: 0.028748263400408203
+Chromosome [ 0.00459841 -0.06683016] gives value: 0.004487415875292181
+Chromosome [ 0.00459841 -0.16683016] gives value: 0.0278534481998856
+min value for this generation: 0.002862719532175838
+______________________________________________________________________
+Generation 8 info:
+Chromosome [-0.11069826 -0.04819826] gives value: 0.014577176372705076
+Chromosome [-0.19403159 -0.04819826] gives value: 0.039971330470304225
+Chromosome [ 0.02323031 -0.11069826] gives value: 0.012793751772041864
+Chromosome [ 0.02323031 -0.08759827] gives value: 0.008213104253012903
+Chromosome [-0.12933016 -0.06683016] gives value: 0.021192561207974695
+Chromosome [-0.05790159 -0.06683016] gives value: 0.00781886464959164
+Chromosome [ 0.00459841 -0.12933016] gives value: 0.016747436078163067
+Chromosome [ 0.00459841 -0.22933016] gives value: 0.05261346840275649
+min value for this generation: 0.00781886464959164
+______________________________________________________________________
+Generation 9 info:
+Chromosome [-0.03232524 -0.08759827] gives value: 0.008718378060583409
+Chromosome [-0.16625381 -0.08759827] gives value: 0.03531378728206503
+Chromosome [ 0.02323031 -0.03232524] gives value: 0.0015845687390831308
+Chromosome [ 0.02323031 -0.10375381] gives value: 0.01130450127625428
+Chromosome [-0.05095715 -0.06683016] gives value: 0.007062901205533675
+Chromosome [-0.18488572 -0.06683016] gives value: 0.03864899891916857
+Chromosome [-0.05790159 -0.05095715] gives value: 0.005949224850021508
+Chromosome [-0.05790159 -0.12238572] gives value: 0.01833085791634107
+min value for this generation: 0.0015845687390831308
+______________________________________________________________________
+Generation 10 info:
+Chromosome [-0.08232524 -0.03232524] gives value: 0.00782236675124487
+Chromosome [-0.02676969 -0.03232524] gives value: 0.0017615373881188089
+Chromosome [ 0.02323031 -0.08232524] gives value: 0.007317092943674365
+Chromosome [ 0.02323031 -0.15375381] gives value: 0.024179882623702652
+Chromosome [-0.10095715 -0.05095715] gives value: 0.012788975980958666
+Chromosome [-0.10790159 -0.05095715] gives value: 0.014239383869461077
+Chromosome [-0.05790159 -0.10095715] gives value: 0.013544939425016632
+Chromosome [-0.05790159 -0.17238572] gives value: 0.03306942963419333
+min value for this generation: 0.0017615373881188089
+
+Minimum value 7.170708657929782e-05 is reached at iteration 4
