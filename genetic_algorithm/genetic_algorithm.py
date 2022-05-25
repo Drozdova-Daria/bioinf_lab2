@@ -23,16 +23,19 @@ class GeneticAlgorithm:
     def generate_new_part(self, chromosomes: np.ndarray, mutation=False, mutation_range=2, optimizer="min"):
         values = [self.function(*chromosome) for chromosome in chromosomes]
         chromosomes_dict = dict(zip([str(i) for i in range(4)], values))
+
         if optimizer == "min":
             chromosomes_dict = OrderedDict(sorted(chromosomes_dict.items(), key=lambda t: t[1]))
         elif optimizer == "max":
             chromosomes_dict = OrderedDict(sorted(chromosomes_dict.items(), key=lambda t: -t[1]))
         else:
             raise ValueError(f"{str(optimizer)} should be max or min")
+
         chromosome_indexes = list(chromosomes_dict.keys())
         good_chromosome = chromosomes[int(chromosome_indexes[2])]
         better_chromosome = chromosomes[int(chromosome_indexes[1])]
         best_chromosome = chromosomes[int(chromosome_indexes[0])]
+
         return np.array(
             [
                 [better_chromosome[0] + float(mutation_range * mutation * rd.rand(1) - (mutation_range / 2)),
